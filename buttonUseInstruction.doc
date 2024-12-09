@@ -1,0 +1,13 @@
+<h2>Primary Buttons</h2>
+<div class="button-group">
+  <button class="button button-primary button-40">Small Primary</button>
+  <button class="button button-primary button-44">Medium Primary</button>
+  <button class="button button-primary button-48">Large Primary</button>
+</div>
+
+<h2>Secondary Buttons</h2>
+<div class="button-group">
+  <button class="button button-secondary button-40">Small Secondary</button>
+  <button class="button button-secondary button-44">Medium Secondary</button>
+  <button class="button button-secondary button-48">Large Secondary</button>
+</div>
